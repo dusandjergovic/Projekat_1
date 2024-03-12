@@ -4,7 +4,13 @@ form {
     gap: 1rem;
     padding: 1rem;
     width: 200px;
+    color: white;
 }
 form p {
     border: 1px solid red;
+}
+body {
+    background-image: url(/img/1.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
